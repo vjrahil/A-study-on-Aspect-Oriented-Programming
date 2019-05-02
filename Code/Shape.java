@@ -1,0 +1,7 @@
+/**
+ * Shape
+ */
+public class Shape {
+
+    
+}
